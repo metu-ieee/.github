@@ -4,6 +4,7 @@ about: Suggest an idea for a METU IEEE project.
 title: 'feat: [Brief description of the feature]'
 labels: 'enhancement'
 assignees: ''
+type: 'Feature'
 ---
 
 ## The Problem
